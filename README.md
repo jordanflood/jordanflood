@@ -1,4 +1,4 @@
-# 👋 About Me:
+# Hey There 👋
 
 I'm a **Data Analyst** hailing from Ireland, soaking up the sun and culture in Spain. With a passion for turning raw data into compelling stories and actionable insights, I thrive on challenges that can stretch my analytical skills.
 

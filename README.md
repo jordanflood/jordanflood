@@ -1,18 +1,14 @@
-# 👋 Hey There
+### Hey There 👋 
 
 I’m Jordan, focused on building a strong foundation in **Quality Assurance and software testing** through structured learning, hands-on practice, and solid computer science fundamentals.
 
 I’m currently preparing for **ISTQB Foundation Level** and planning a **Master’s in Computer Science**, with the goal of growing into a well-rounded QA Engineer.
-
----
 
 ### 🎯 Focus Areas
 - Software quality & reliability  
 - Structured software testing  
 - Clear, actionable defect reporting  
 - Understanding how software systems are designed and built  
-
----
 
 ### 🧪 Currently Learning (QA)
 - Software testing fundamentals  
@@ -24,13 +20,9 @@ I’m currently preparing for **ISTQB Foundation Level** and planning a **Master
 - Bug reporting & defect lifecycle  
 - Agile & Scrum workflows  
 
----
-
 ### 📚 Education & Certification
 - 📖 **ISTQB Foundation Level** — in progress  
 - 🎓 **Master’s in Computer Science** — planned  
-
----
 
 ### ⚙️ Tools & Technical Background
 - Manual testing practices  
@@ -40,8 +32,6 @@ I’m currently preparing for **ISTQB Foundation Level** and planning a **Master
 - Python & SQL  
 - HTML / CSS fundamentals  
 - Basic REST API concepts  
-
----
 
 ### 📂 This GitHub
 This profile documents my **QA learning journey**, including:

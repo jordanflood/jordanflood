@@ -1,36 +1,51 @@
-# Hey There 👋
+# 👋 Hey There
 
-I'm Jordan. I'm a **Data Analyst** transitioning into Quality Assurance after a background in Sales and Data Analytics. I’m currently focused on building a strong foundation in software testing and Development combining structured learning (ISTQB), hands-on practice, and a growing understanding of how software systems are designed and built. My long-term goal is to work as a QA Engineer who understands both business needs and technical systems.
+I’m Jordan, focused on building a strong foundation in **Quality Assurance and software testing** through structured learning, hands-on practice, and solid computer science fundamentals.
 
+I’m currently preparing for **ISTQB Foundation Level** and planning a **Master’s in Computer Science**, with the goal of growing into a well-rounded QA Engineer.
 
-🎯 *Career Transition*
+---
 
-- 📈 Sales → strong communication, stakeholder focus, and user perspective
+### 🎯 Focus Areas
+- Software quality & reliability  
+- Structured software testing  
+- Clear, actionable defect reporting  
+- Understanding how software systems are designed and built  
 
-- 📊 Data Analytics → analytical thinking, attention to detail, working with data
+---
 
-- 🧪 Now pursuing QA → quality, testing mindset, and software reliability
+### 🧪 Currently Learning (QA)
+- Software testing fundamentals  
+- Test design techniques:
+  - Black-box testing  
+  - Boundary value analysis  
+  - Equivalence partitioning  
+- Manual & exploratory testing  
+- Bug reporting & defect lifecycle  
+- Agile & Scrum workflows  
 
-This path gives me a unique advantage: I test software not just for bugs, but for real user impact
+---
 
-🧪 Currently Learning (QA Focus)
+### 📚 Education & Certification
+- 📖 **ISTQB Foundation Level** — in progress  
+- 🎓 **Master’s in Computer Science** — planned  
 
-- Software testing fundamentals
+---
 
-- Test design techniques (black-box, boundary values, equivalence partitioning)
+### ⚙️ Tools & Technical Background
+- Manual testing practices  
+- Git & GitHub  
+- Jira (issue tracking & workflows)  
+- Postman (API testing — learning)  
+- Python & SQL  
+- HTML / CSS fundamentals  
+- Basic REST API concepts  
 
-- Manual testing & exploratory testing
+---
 
-- Bug reporting & defect lifecycle
-
-- Agile & Scrum workflows
-
-📚 Preparing for ISTQB Foundation Level
-
-🎓 Planning a Master’s in Computer Science
-
- 💻 Tools & Tech
-
- 
-
-
+### 📂 This GitHub
+This profile documents my **QA learning journey**, including:
+- Test case examples  
+- Bug report samples  
+- QA notes & exercises  
+- Practice projects as I build skills  

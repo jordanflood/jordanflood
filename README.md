@@ -22,7 +22,7 @@ I’m currently preparing for **ISTQB Foundation Level** and studyying my **Mast
 
 ### 📚 Education & Certification
 - 📖 **ISTQB Foundation Level** — in progress  
-- 🎓 **Master’s in Computer Science** — planned  
+- 🎓 **Master’s in Computer Science** — In Progress, First Class Expected
 
 ### ⚙️ Tools & Technical Background
 - Manual testing practices  

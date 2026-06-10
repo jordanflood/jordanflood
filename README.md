@@ -2,7 +2,7 @@
 
 I’m Jordan, focused on building a strong foundation in **Quality Assurance and software testing** through structured learning, hands-on practice, and solid computer science fundamentals.
 
-I’m currently preparing for **ISTQB Foundation Level** and planning a **Master’s in Computer Science**, with the goal of growing into a well-rounded QA Engineer.
+I’m currently preparing for **ISTQB Foundation Level** and studyying my **Master’s in Computer Science** at Heriot-Watt University, with the goal of growing into a top class QA Engineer.
 
 ### 🎯 Focus Areas
 - Software quality & reliability  

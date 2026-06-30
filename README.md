@@ -1,41 +1,40 @@
-### Hey There 👋 
+# Hey, I'm Jordan 👋
 
-I’m Jordan, focused on building a strong foundation in **Quality Assurance and software testing** through structured learning, hands-on practice, and solid computer science fundamentals.
+I'm currently moving deeper into QA, software testing, and technical support work.
 
-I’m currently preparing for **ISTQB Foundation Level** and studyying my **Master’s in Computer Science** at Heriot-Watt University, with the goal of growing into a top class QA Engineer.
+My background is a mix of data analysis, SaaS, operations, and customer-facing problem solving. I currently work as a Senior Data Analyst at Amazon and I’m studying an MSc in Computer Science at Heriot-Watt University.
 
-### 🎯 Focus Areas
-- Software quality & reliability  
-- Structured software testing  
-- Clear, actionable defect reporting  
-- Understanding how software systems are designed and built  
+This GitHub is where I’m building practical proof of the skills I’m working on: test cases, bug reports, API testing, documentation, troubleshooting notes, and small projects.
 
-### 🧪 Currently Learning (QA)
-- Software testing fundamentals  
-- Test design techniques:
-  - Black-box testing  
-  - Boundary value analysis  
-  - Equivalence partitioning  
-- Manual & exploratory testing  
-- Bug reporting & defect lifecycle  
-- Agile & Scrum workflows  
+## What I'm focusing on
 
-### 📚 Education & Certification
-- 📖 **ISTQB Foundation Level** — in progress  
-- 🎓 **Master’s in Computer Science** — In Progress, First Class Expected
+- Manual and exploratory testing
+- Writing clear test cases
+- Writing bug reports that are easy to reproduce
+- API testing with REST and JSON
+- Data validation and troubleshooting
+- Linux, Bash, and basic cloud support skills
+- Understanding how software is built, tested, and supported
 
-### ⚙️ Tools & Technical Background
-- Manual testing practices  
-- Git & GitHub  
-- Jira (issue tracking & workflows)  
-- Postman (API testing — learning)  
-- Python & SQL  
-- HTML / CSS fundamentals  
-- Basic REST API concepts  
+## Current work
 
-### 📂 This GitHub
-This profile documents my **QA learning journey**, including:
-- Test case examples  
-- Bug report samples  
-- QA notes & exercises  
-- Practice projects as I build skills  
+- API testing practice using public REST APIs
+- Manual QA test case examples
+- Bug report samples
+- Test plans and regression checklists
+- Linux / support troubleshooting notes
+
+## Tools and skills
+
+- **Testing:** test cases, bug reports, regression testing, exploratory testing
+- **API:** REST APIs, JSON, Postman / Bruno
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub, Jira, Excel, Tableau
+- **Systems:** Linux, Bash, basic cloud concepts
+
+## Education and training
+
+- **MSc Computer Science** — Heriot-Watt University, expected 2027
+- **Software Testing / QA Training** — Amazon, 2025
+- **ISTQB Foundation Level** — in progress
+- **Data Analytics and Machine Learning Bootcamp** — Ironhack, 2024

@@ -2,7 +2,7 @@
 
 I'm an MSc Computer Science student building practical skills in **technical support, Linux, networking, cloud infrastructure, and troubleshooting**.
 
-My background includes data analysis, SaaS operations, software testing, and customer-facing problem solving at Amazon. I’m now working toward an entry-level role in IT support, cloud support, infrastructure support, or technical operations.
+My background includes data analysis, SaaS operations, software testing, and customer-facing problem solving at Amazon. I’m now working towards a new role in IT support, cloud support, infrastructure support, or technical operations.
 
 This GitHub documents what I’m learning through practical labs, troubleshooting exercises, scripts, technical documentation, and small infrastructure projects.
 

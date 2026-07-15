@@ -1,40 +1,82 @@
 # Hey, I'm Jordan 👋
 
-I'm currently moving deeper into QA, software testing, and technical support work.
+I'm an MSc Computer Science student building practical skills in **technical support, Linux, networking, cloud infrastructure, and troubleshooting**.
 
-My background is a mix of data analysis, SaaS, operations, and customer-facing problem solving. I currently work as a Senior Data Analyst at Amazon and I’m studying an MSc in Computer Science at Heriot-Watt University.
+My background includes data analysis, SaaS operations, software testing, and customer-facing problem solving at Amazon. I’m now working toward an entry-level role in IT support, cloud support, infrastructure support, or technical operations.
 
-This GitHub is where I’m building practical proof of the skills I’m working on: test cases, bug reports, API testing, documentation, troubleshooting notes, and small projects.
+This GitHub documents what I’m learning through practical labs, troubleshooting exercises, scripts, technical documentation, and small infrastructure projects.
 
 ## What I'm focusing on
 
-- Manual and exploratory testing
-- Writing clear test cases
-- Writing bug reports that are easy to reproduce
-- API testing with REST and JSON
-- Data validation and troubleshooting
-- Linux, Bash, and basic cloud support skills
-- Understanding how software is built, tested, and supported
+* Linux administration and troubleshooting
+* Networking fundamentals
+* Technical and application support
+* AWS and cloud infrastructure
+* Bash scripting and task automation
+* Docker and container fundamentals
+* Git and GitHub workflows
+* Clear technical documentation
+* Diagnosing, reproducing, and resolving technical issues
 
-## Current work
+## Current projects
 
-- API testing practice using public REST APIs
-- Manual QA test case examples
-- Bug report samples
-- Test plans and regression checklists
-- Linux / support troubleshooting notes
+* Building a Linux cloud-support lab covering users, permissions, services, networking, SSH, firewalls, and troubleshooting
+* Creating documented support scenarios and incident reports
+* Deploying and troubleshooting applications using Docker and Nginx
+* Practising AWS infrastructure and cloud-support tasks
+* Developing Bash scripts for system checks and basic automation
+* Maintaining a QA portfolio with test cases, bug reports, exploratory testing, and API testing
 
 ## Tools and skills
 
-- **Testing:** test cases, bug reports, regression testing, exploratory testing
-- **API:** REST APIs, JSON, Postman / Bruno
-- **Languages:** Python, SQL
-- **Tools:** Git, GitHub, Jira, Excel, Tableau
-- **Systems:** Linux, Bash, basic cloud concepts
+**Systems and support**
+
+* Linux
+* Bash
+* Command-line troubleshooting
+* User and permission management
+* Service and process management
+* Basic networking and DNS concepts
+
+**Cloud and infrastructure**
+
+* AWS fundamentals
+* Docker
+* Nginx
+* Virtual machines
+* Git and GitHub
+
+**Testing and troubleshooting**
+
+* Manual and exploratory testing
+* Bug reporting
+* Regression testing
+* REST API testing
+* JSON
+* Postman and Bruno
+* Data validation
+
+**Languages and data**
+
+* Python
+* SQL
+
+**Other tools**
+
+* Jira
+* Excel
+* Tableau
 
 ## Education and training
 
-- **MSc Computer Science** — Heriot-Watt University, expected 2027
-- **Software Testing / QA Training** — Amazon, 2025
-- **ISTQB Foundation Level** — in progress
-- **Data Analytics and Machine Learning Bootcamp** — Ironhack, 2024
+* MSc Computer Science — Heriot-Watt University, expected 2027
+* IBM DevOps and Software Engineering — in progress
+* AWS Cloud Support training — in progress
+* Software Testing and QA Training — Amazon, 2025
+* Data Analytics and Machine Learning Bootcamp — Ironhack, 2024
+
+## What I'm working toward
+
+My immediate goal is to begin working in an IT support, technical support, cloud support, or infrastructure-support role where I can contribute my troubleshooting, analytical, and communication experience while continuing to develop deeper cloud and systems skills.
+
+Long term, I’m aiming toward cloud infrastructure, platform engineering, and DevOps.

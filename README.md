@@ -60,11 +60,15 @@ Long term, I’m aiming toward cloud infrastructure, platform engineering, and D
 * Postman and Bruno
 * Data validation
 
-**Languages and data**
+**Primary Languages and scripting**
 
 * Python
+* Bash
 * Java
 * SQL
+
+**Additional dev experience**
+
 * HTML
 * CSS
 * JavaScript

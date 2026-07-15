@@ -59,7 +59,11 @@ This GitHub documents what I’m learning through practical labs, troubleshootin
 **Languages and data**
 
 * Python
+* Java
 * SQL
+* HTML
+* CSS
+* JavaScript
 
 **Other tools**
 

@@ -4,7 +4,11 @@ I'm an MSc Computer Science student building practical skills in **technical sup
 
 My background includes data analysis, SaaS operations, software testing, and customer-facing problem solving at Amazon. I’m now working towards a new role in IT support, cloud support, infrastructure support, or technical operations.
 
-This GitHub documents what I’m learning through practical labs, troubleshooting exercises, scripts, technical documentation, and small infrastructure projects.
+## What I'm working toward
+
+My immediate goal is to begin working in an IT support, technical support, cloud support, or infrastructure-support role where I can contribute my troubleshooting, analytical, and communication experience while continuing to develop deeper cloud and systems skills.
+
+Long term, I’m aiming toward cloud infrastructure, platform engineering, and DevOps.
 
 ## What I'm focusing on
 
@@ -78,9 +82,3 @@ This GitHub documents what I’m learning through practical labs, troubleshootin
 * AWS Cloud Support training — in progress
 * Software Testing and QA Training — Amazon, 2025
 * Data Analytics and Machine Learning Bootcamp — Ironhack, 2024
-
-## What I'm working toward
-
-My immediate goal is to begin working in an IT support, technical support, cloud support, or infrastructure-support role where I can contribute my troubleshooting, analytical, and communication experience while continuing to develop deeper cloud and systems skills.
-
-Long term, I’m aiming toward cloud infrastructure, platform engineering, and DevOps.
